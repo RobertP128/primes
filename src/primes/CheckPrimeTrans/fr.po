@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-03 09:23:30+0200\n"
+"PO-Revision-Date: 2020-05-03 09:25:54+0200\n"
+"Last-Translator: poppi\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: MonoDevelop Gettext addin\n"
+
+#: ../CheckPrime/gtk-gui/MainWindow.cs:33
+msgid "MainWindow"
+msgstr "Fensterr de main"
+
+#: ../CheckPrime/gtk-gui/MainWindow.cs:42
+msgid "Prime checker"
+msgstr "prime cheker (fr)"
+
+#: ../CheckPrime/gtk-gui/MainWindow.cs:57
+msgid "Primenumber:"
+msgstr "primaernumbera  (fr)"
+
+#: ../CheckPrime/gtk-gui/MainWindow.cs:79
+msgid "Evaluate"
+msgstr "calculus (fr)"
+
+#: ../CheckPrime/gtk-gui/MainWindow.cs:99
+msgid "isPrime"
+msgstr "le primare (fr)"
+
+#: ../CheckPrime/gtk-gui/MainWindow.cs:117
+msgid "firstFactor"
+msgstr "erste faktor (fr)"
+

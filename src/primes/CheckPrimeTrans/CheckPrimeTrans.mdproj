@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ItemType>TranslationProject</ItemType>
+    <ProjectGuid>{DEB38E34-3BEA-424F-911F-B9E5A11D1770}</ProjectGuid>
+    <packageName>CheckPrime</packageName>
+    <outputType>RelativeToOutput</outputType>
+    <relPath>locale</relPath>
+    <translations>
+      <translations>
+        <Translation>
+          <isoCode>de</isoCode>
+        </Translation>
+        <Translation>
+          <isoCode>fr</isoCode>
+        </Translation>
+      </translations>
+    </translations>
+    <projectInformations>
+      <projectInformations>
+        <TranslationProjectInformation>
+          <projectName>primes</projectName>
+          <isIncluded>False</isIncluded>
+        </TranslationProjectInformation>
+        <TranslationProjectInformation>
+          <projectName>libprimes</projectName>
+          <isIncluded>False</isIncluded>
+        </TranslationProjectInformation>
+        <TranslationProjectInformation>
+          <projectName>libprimesTest</projectName>
+          <isIncluded>False</isIncluded>
+        </TranslationProjectInformation>
+        <TranslationProjectInformation>
+          <projectName>CheckPrime</projectName>
+          <isIncluded>True</isIncluded>
+        </TranslationProjectInformation>
+      </projectInformations>
+    </projectInformations>
+  </PropertyGroup>
+</Project>
